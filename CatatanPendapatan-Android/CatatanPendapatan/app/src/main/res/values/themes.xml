@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CatatanPendapatan" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/latar_awal</item>
+    </style>
+</resources>
